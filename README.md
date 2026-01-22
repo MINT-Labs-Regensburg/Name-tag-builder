@@ -228,3 +228,5 @@ Frei verwendbar für persönliche und kommerzielle Projekte.
 ---
 
 *Happy Printing!  🖨️✨*
+
+## Mehr Projekte und Anleitungen findest du [hier](https://wiki.mint-labs.de/)
